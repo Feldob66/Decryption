@@ -23,21 +23,35 @@ public class GameService {
         this.gameState = new GameState();
     }
 
+    /**
+     * Starts a new game by generating a new list of 8 words and picking a target.
+     */
     public void startNewGame() {
         gameState = new GameState();
 
         List<String> freshWords = wordListProvider.generateFreshWordList();
+        if (freshWords == null || freshWords.size() != 8) {
+            throw new IllegalStateException("Word list must contain exactly 8 words.");
+        }
+
         gameState.setWordOptions(freshWords);
 
         String targetWord = wordListProvider.selectTargetWord(freshWords);
+        if (!freshWords.contains(targetWord)) {
+            throw new IllegalStateException("Target word must be selected from the provided word list.");
+        }
+
         gameState.setTargetWord(targetWord);
 
         logger.info("New game started with target word: " + targetWord);
         logger.info("Word options: " + String.join(", ", freshWords));
 
-        gameState.updateState();
+        gameState.updateState();  // This should notify observers
     }
 
+    /**
+     * Process a player’s guess and return the result.
+     */
     public GuessResult makeGuess(String guessedWord) {
         if (gameState.isGameOver()) {
             logger.info("Game is already over");
@@ -72,12 +86,14 @@ public class GameService {
             logger.info("Player lost after " + gameState.getCurrentAttempt() + " attempts");
         }
 
-        gameState.updateState();
+        gameState.updateState(); // Notify view to update
 
         return new GuessResult(
                 isCorrect,
                 correctCharCount,
-                isCorrect ? "Correct!" : correctCharCount + "/" + gameState.getTargetWord().length() + " correct characters"
+                isCorrect
+                        ? "Correct! You've decrypted the word!"
+                        : correctCharCount + "/" + gameState.getTargetWord().length() + " correct characters"
         );
     }
 

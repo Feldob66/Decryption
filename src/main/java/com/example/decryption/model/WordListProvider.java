@@ -47,7 +47,6 @@ public class WordListProvider {
                         line = line.trim().toUpperCase();
                         if (!line.isEmpty()) {
                             allWords.add(line);
-
                             wordsByLength.putIfAbsent(length, new ArrayList<>());
                             wordsByLength.get(length).add(line);
                         }
@@ -76,8 +75,13 @@ public class WordListProvider {
         List<String> shuffledWords = new ArrayList<>(allWords);
         Collections.shuffle(shuffledWords, seededRandom);
 
-        int wordCount = 8;
-        List<String> selectedWords = shuffledWords.subList(0, Math.min(wordCount, shuffledWords.size()));
+        List<String> selectedWords = shuffledWords.subList(0, Math.min(DAILY_WORD_COUNT, shuffledWords.size()));
+        if (selectedWords.size() < DAILY_WORD_COUNT) {
+            logger.warn("Not enough words to fill 8. Padding with placeholders.");
+            while (selectedWords.size() < DAILY_WORD_COUNT) {
+                selectedWords.add("PLACEHOLDER");
+            }
+        }
 
         dailyWordLists.put(date, selectedWords);
         logger.info("Generated daily word list for " + date + " with " + selectedWords.size() + " words");
@@ -91,7 +95,16 @@ public class WordListProvider {
         List<String> wordPool = new ArrayList<>(wordsByLength.getOrDefault(chosenLength, Collections.emptyList()));
 
         Collections.shuffle(wordPool, random);
-        return wordPool.subList(0, Math.min(DAILY_WORD_COUNT, wordPool.size()));
+        List<String> selected = wordPool.subList(0, Math.min(DAILY_WORD_COUNT, wordPool.size()));
+
+        if (selected.size() < DAILY_WORD_COUNT) {
+            logger.warn("Not enough fresh words to fill 8. Padding with placeholders.");
+            while (selected.size() < DAILY_WORD_COUNT) {
+                selected.add("PLACEHOLDER");
+            }
+        }
+
+        return selected;
     }
 
     public String selectTargetWord(List<String> wordList) {
@@ -102,9 +115,7 @@ public class WordListProvider {
     }
 
     public void addCustomWords(List<String> words) {
-        if (words == null || words.isEmpty()) {
-            return;
-        }
+        if (words == null || words.isEmpty()) return;
 
         for (String word : words) {
             String upper = word.toUpperCase();
