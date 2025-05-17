@@ -61,6 +61,10 @@ public class GameController implements Observer {
             } else if (gameService.getGameState().isGameOver()) {
                 gameView.showGameLostMessage(gameService.getGameState().getTargetWord());
             }
+            GameState state = gameService.getGameState();
+            gameView.updateView(state);
+
+
         });
 
         // Handle new game button press
