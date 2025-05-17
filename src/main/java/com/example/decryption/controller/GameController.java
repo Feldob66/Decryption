@@ -61,19 +61,33 @@ public class GameController implements Observer {
             } else if (gameService.getGameState().isGameOver()) {
                 gameView.showGameLostMessage(gameService.getGameState().getTargetWord());
             }
+
+            // Update the game view and stats AFTER processing the guess
             GameState state = gameService.getGameState();
             gameView.updateView(state);
 
-
+            // Update stats with latest information including the current guess
+            gameView.updateStats(
+                    state.getCurrentScore(),
+                    state.getAttemptedWords(),
+                    state.getFeedbackScores()
+            );
         });
 
         // Handle new game button press
         gameView.setOnNewGameHandler(() -> {
             logger.info("New game requested");
             initializeGame();
+
+            // You might want to add this to show empty stats panel after new game
+            gameView.updateStats(
+                    gameService.getGameState().getCurrentScore(),
+                    gameService.getGameState().getAttemptedWords(),
+                    gameService.getGameState().getFeedbackScores()
+            );
         });
 
-        // Handle stats button press
+        // For the stats button, we can keep the popup functionality as a backup
         gameView.setOnShowStatsHandler(() -> {
             logger.info("Statistics requested");
             gameView.showStatistics(
