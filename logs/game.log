@@ -550,3 +550,48 @@
 [2025-05-17 12:04:32] [INFO] [GameService] Word options: STRANGE, EXAMPLE, HUSBAND, ROYALTY, NEUTRAL, MIRACLE, SUGGEST, COMPANY
 [2025-05-17 12:04:32] [INFO] [Main] Application started successfully
 [2025-05-17 12:04:36] [INFO] [Main] Application shutting down
+[2025-05-17 12:09:54] [INFO] [Main] Starting Decryption application
+[2025-05-17 12:09:54] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-17 12:09:54] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-17 12:09:54] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-17 12:09:54] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-17 12:09:54] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-17 12:09:54] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-17 12:09:54] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-17 12:09:54] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-17 12:09:54] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-17 12:09:54] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-17 12:09:54] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-17 12:09:54] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-17 12:09:54] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-17 12:09:54] [INFO] [ScoreManager] No score file found. Starting with fresh scores.
+[2025-05-17 12:09:55] [INFO] [GameService] New game started with target word: MIDNIGHT
+[2025-05-17 12:09:55] [INFO] [GameService] Word options: INVASION, VERTICAL, FRACTION, MIDNIGHT, DECISIVE, DIRECTOR, DETECTOR, MEDICINE
+[2025-05-17 12:09:55] [INFO] [Main] Application started successfully
+[2025-05-17 12:10:01] [INFO] [GameController] Player selected word: INVASION
+[2025-05-17 12:10:04] [INFO] [GameController] Player selected word: VERTICAL
+[2025-05-17 12:10:10] [INFO] [GameController] Player selected word: MEDICINE
+[2025-05-17 12:10:43] [INFO] [GameController] Player selected word: DETECTOR
+[2025-05-17 12:10:47] [INFO] [GameController] Player selected word: DECISIVE
+[2025-05-17 12:10:47] [INFO] [ScoreManager] Game lost after 5 attempts
+[2025-05-17 12:10:47] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-17 12:10:47] [INFO] [GameService] Player lost after 5 attempts
+[2025-05-17 12:11:04] [INFO] [GameController] Statistics requested
+[2025-05-17 12:11:33] [INFO] [GameController] New game requested
+[2025-05-17 12:11:33] [INFO] [GameService] New game started with target word: INVESTIGATION
+[2025-05-17 12:11:33] [INFO] [GameService] Word options: STRIKEBREAKER, COMMUNICATION, ENTERTAINMENT, SHORT CIRCUIT, CONSTELLATION, EMBARRASSMENT, CONTRADICTION, INVESTIGATION
+[2025-05-17 12:11:41] [INFO] [GameController] Player selected word: INVESTIGATION
+[2025-05-17 12:11:41] [INFO] [ScoreManager] Game won on attempt 1 with score 200
+[2025-05-17 12:11:41] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-17 12:11:41] [INFO] [GameService] Player won on attempt 1 with score 200
+[2025-05-17 12:11:48] [INFO] [GameController] New game requested
+[2025-05-17 12:11:48] [INFO] [GameService] New game started with target word: CONSTELLATION
+[2025-05-17 12:11:48] [INFO] [GameService] Word options: EMBARRASSMENT, COMPREHENSIVE, SHORT CIRCUIT, CONSTELLATION, DEMONSTRATION, QUALIFICATION, CONSCIOUSNESS, ENVIRONMENTAL
+[2025-05-17 12:11:52] [INFO] [GameController] Player selected word: EMBARRASSMENT
+[2025-05-17 12:11:53] [INFO] [GameController] Player selected word: COMPREHENSIVE
+[2025-05-17 12:11:53] [INFO] [GameController] Player selected word: SHORT CIRCUIT
+[2025-05-17 12:11:54] [INFO] [GameController] Player selected word: CONSTELLATION
+[2025-05-17 12:11:54] [INFO] [ScoreManager] Game won on attempt 4 with score 50
+[2025-05-17 12:11:54] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-17 12:11:54] [INFO] [GameService] Player won on attempt 4 with score 50
+[2025-05-17 12:12:08] [INFO] [Main] Application shutting down

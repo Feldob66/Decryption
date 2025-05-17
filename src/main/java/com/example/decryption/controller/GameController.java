@@ -37,7 +37,9 @@ public class GameController implements Observer {
         // Start a new game
         gameService.startNewGame();
 
-        // Game state is automatically updated through an Observer pattern
+        // Explicitly update the view to set the button labels
+        GameState state = gameService.getGameState();
+        gameView.updateView(state);
     }
 
     /**
