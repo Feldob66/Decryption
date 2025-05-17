@@ -88,4 +88,14 @@ public class Logger {
         } catch (IOException e) {
             System.err.println("Failed to write to log file: " + e.getMessage());
         }
-    }}
+    }
+
+    /**
+     * Logs a warning message
+     * @param message The message to log
+     */
+    public void warn(String message) {
+        log("WARN", message);
+    }
+
+}

@@ -3,7 +3,7 @@ package com.example.decryption.controller;
 import com.example.decryption.model.GameService;
 import com.example.decryption.model.entity.GameState;
 import com.example.decryption.util.Logger;
-import org.example.view.GameView;
+import com.example.decryption.view.GameView;
 
 import java.util.Observable;
 import java.util.Observer;

@@ -10,3 +10,250 @@
 [2025-05-17 10:52:59] [INFO] [GameService] New game started with target word: MICROCHIP
 [2025-05-17 10:52:59] [INFO] [GameService] Word options: LANGUAGE, VARIABLE, SOFTWARE, MICROCHIP, WIRELESS, DATABASE, ALGORITHM, QUANTUM, KEYBOARD
 [2025-05-17 10:53:06] [INFO] [Main] Application shutting down
+[2025-05-17 11:08:22] [INFO] [Main] Starting Decryption application
+[2025-05-17 11:08:22] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-17 11:08:22] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-17 11:08:22] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-17 11:08:22] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-17 11:08:22] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-17 11:08:22] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-17 11:08:22] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-17 11:08:22] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-17 11:08:22] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-17 11:08:22] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-17 11:08:22] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-17 11:08:22] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-17 11:08:22] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-17 11:08:22] [INFO] [ScoreManager] No score file found. Starting with fresh scores.
+[2025-05-17 11:08:22] [INFO] [WordListProvider] Generated daily word list for 2025-05-17 with 8 words
+[2025-05-17 11:08:22] [INFO] [GameService] New game started with target word: MIDNIGHT
+[2025-05-17 11:08:22] [INFO] [GameService] Word options: COMPARTMENT, FOUNTAIN, RIVER, INSURE, EAST, PATIENCE, UNDERSTAND, MIDNIGHT
+[2025-05-17 11:08:22] [INFO] [Main] Application started successfully
+[2025-05-17 11:08:26] [INFO] [GameController] New game requested
+[2025-05-17 11:08:26] [INFO] [GameService] New game started with target word: UNDERSTAND
+[2025-05-17 11:08:26] [INFO] [GameService] Word options: COMPARTMENT, FOUNTAIN, RIVER, INSURE, EAST, PATIENCE, UNDERSTAND, MIDNIGHT
+[2025-05-17 11:08:27] [INFO] [GameController] New game requested
+[2025-05-17 11:08:27] [INFO] [GameService] New game started with target word: RIVER
+[2025-05-17 11:08:27] [INFO] [GameService] Word options: COMPARTMENT, FOUNTAIN, RIVER, INSURE, EAST, PATIENCE, UNDERSTAND, MIDNIGHT
+[2025-05-17 11:08:28] [INFO] [Main] Application shutting down
+[2025-05-17 11:13:10] [INFO] [Main] Starting Decryption application
+[2025-05-17 11:13:10] [INFO] [WordListProvider] Loaded 151 words from /wordlists/wordslength3.txt
+[2025-05-17 11:13:10] [INFO] [WordListProvider] Loaded 538 words from /wordlists/wordslength4.txt
+[2025-05-17 11:13:10] [INFO] [WordListProvider] Loaded 565 words from /wordlists/wordslength5.txt
+[2025-05-17 11:13:10] [INFO] [WordListProvider] Loaded 538 words from /wordlists/wordslength6.txt
+[2025-05-17 11:13:10] [INFO] [WordListProvider] Loaded 458 words from /wordlists/wordslength7.txt
+[2025-05-17 11:13:10] [INFO] [WordListProvider] Loaded 354 words from /wordlists/wordslength8.txt
+[2025-05-17 11:13:10] [INFO] [WordListProvider] Loaded 258 words from /wordlists/wordslength9.txt
+[2025-05-17 11:13:10] [INFO] [WordListProvider] Loaded 183 words from /wordlists/wordslength10.txt
+[2025-05-17 11:13:10] [INFO] [WordListProvider] Loaded 110 words from /wordlists/wordslength11.txt
+[2025-05-17 11:13:10] [INFO] [WordListProvider] Loaded 46 words from /wordlists/wordslength12.txt
+[2025-05-17 11:13:10] [INFO] [WordListProvider] Loaded 21 words from /wordlists/wordslength13.txt
+[2025-05-17 11:13:10] [INFO] [WordListProvider] Loaded 14 words from /wordlists/wordslength14.txt
+[2025-05-17 11:13:10] [INFO] [WordListProvider] Completed loading word lists by length.
+[2025-05-17 11:13:10] [INFO] [ScoreManager] No score file found. Starting with fresh scores.
+[2025-05-17 11:13:11] [INFO] [WordListProvider] Generated daily word list for 2025-05-17 with length 4
+[2025-05-17 11:13:11] [INFO] [GameService] New game started with target word: FOOD
+[2025-05-17 11:13:11] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:11] [INFO] [Main] Application started successfully
+[2025-05-17 11:13:14] [INFO] [GameController] New game requested
+[2025-05-17 11:13:14] [INFO] [GameService] New game started with target word: GAME
+[2025-05-17 11:13:14] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:15] [INFO] [GameController] New game requested
+[2025-05-17 11:13:15] [INFO] [GameService] New game started with target word: GAME
+[2025-05-17 11:13:15] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:16] [INFO] [GameController] New game requested
+[2025-05-17 11:13:16] [INFO] [GameService] New game started with target word: PLUG
+[2025-05-17 11:13:16] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:17] [INFO] [GameController] New game requested
+[2025-05-17 11:13:17] [INFO] [GameService] New game started with target word: CALM
+[2025-05-17 11:13:17] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:19] [INFO] [GameController] New game requested
+[2025-05-17 11:13:19] [INFO] [GameService] New game started with target word: FOOD
+[2025-05-17 11:13:19] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:20] [INFO] [GameController] New game requested
+[2025-05-17 11:13:20] [INFO] [GameService] New game started with target word: CALM
+[2025-05-17 11:13:20] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:21] [INFO] [GameController] New game requested
+[2025-05-17 11:13:21] [INFO] [GameService] New game started with target word: KEEP
+[2025-05-17 11:13:21] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:22] [INFO] [GameController] New game requested
+[2025-05-17 11:13:22] [INFO] [GameService] New game started with target word: GAME
+[2025-05-17 11:13:22] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:22] [INFO] [GameController] New game requested
+[2025-05-17 11:13:22] [INFO] [GameService] New game started with target word: CALM
+[2025-05-17 11:13:22] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:23] [INFO] [GameController] New game requested
+[2025-05-17 11:13:23] [INFO] [GameService] New game started with target word: LEND
+[2025-05-17 11:13:23] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:23] [INFO] [GameController] New game requested
+[2025-05-17 11:13:23] [INFO] [GameService] New game started with target word: PLUG
+[2025-05-17 11:13:23] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:23] [INFO] [GameController] New game requested
+[2025-05-17 11:13:23] [INFO] [GameService] New game started with target word: KEEP
+[2025-05-17 11:13:23] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:23] [INFO] [GameController] New game requested
+[2025-05-17 11:13:23] [INFO] [GameService] New game started with target word: PLUG
+[2025-05-17 11:13:23] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:23] [INFO] [GameController] New game requested
+[2025-05-17 11:13:23] [INFO] [GameService] New game started with target word: COLD
+[2025-05-17 11:13:23] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:24] [INFO] [GameController] New game requested
+[2025-05-17 11:13:24] [INFO] [GameService] New game started with target word: GAME
+[2025-05-17 11:13:24] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:24] [INFO] [GameController] New game requested
+[2025-05-17 11:13:24] [INFO] [GameService] New game started with target word: KEEP
+[2025-05-17 11:13:24] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:24] [INFO] [GameController] New game requested
+[2025-05-17 11:13:24] [INFO] [GameService] New game started with target word: KEEP
+[2025-05-17 11:13:24] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:24] [INFO] [GameController] New game requested
+[2025-05-17 11:13:24] [INFO] [GameService] New game started with target word: GAME
+[2025-05-17 11:13:24] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:24] [INFO] [GameController] New game requested
+[2025-05-17 11:13:24] [INFO] [GameService] New game started with target word: PLUG
+[2025-05-17 11:13:24] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:25] [INFO] [GameController] New game requested
+[2025-05-17 11:13:25] [INFO] [GameService] New game started with target word: PLUG
+[2025-05-17 11:13:25] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:25] [INFO] [GameController] New game requested
+[2025-05-17 11:13:25] [INFO] [GameService] New game started with target word: UNIT
+[2025-05-17 11:13:25] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:25] [INFO] [GameController] New game requested
+[2025-05-17 11:13:25] [INFO] [GameService] New game started with target word: COLD
+[2025-05-17 11:13:25] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:25] [INFO] [GameController] New game requested
+[2025-05-17 11:13:25] [INFO] [GameService] New game started with target word: COLD
+[2025-05-17 11:13:25] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:25] [INFO] [GameController] New game requested
+[2025-05-17 11:13:25] [INFO] [GameService] New game started with target word: LEND
+[2025-05-17 11:13:25] [INFO] [GameService] Word options: UNIT, LEND, GAME, PLUG, FOOD, CALM, COLD, KEEP
+[2025-05-17 11:13:26] [INFO] [Main] Application shutting down
+[2025-05-17 11:17:24] [INFO] [Main] Starting Decryption application
+[2025-05-17 11:17:24] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-17 11:17:24] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-17 11:17:24] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-17 11:17:24] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-17 11:17:24] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-17 11:17:24] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-17 11:17:24] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-17 11:17:24] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-17 11:17:24] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-17 11:17:24] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-17 11:17:24] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-17 11:17:24] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-17 11:17:24] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-17 11:17:24] [INFO] [ScoreManager] No score file found. Starting with fresh scores.
+[2025-05-17 11:17:25] [INFO] [GameService] New game started with target word: GIFT
+[2025-05-17 11:17:25] [INFO] [GameService] Word options: HOOK, STEM, GIFT, HIDE, RISK, CALL, WIRE, FINE
+[2025-05-17 11:17:25] [INFO] [Main] Application started successfully
+[2025-05-17 11:17:26] [INFO] [GameController] New game requested
+[2025-05-17 11:17:26] [INFO] [GameService] New game started with target word: EMERGENCY
+[2025-05-17 11:17:26] [INFO] [GameService] Word options: STRUCTURE, PNEUMONIA, DIMENSION, EMERGENCY, INVISIBLE, CANDIDATE, EXECUTIVE, FASCINATE
+[2025-05-17 11:17:28] [INFO] [GameController] New game requested
+[2025-05-17 11:17:28] [INFO] [GameService] New game started with target word: LOCATION
+[2025-05-17 11:17:28] [INFO] [GameService] Word options: RESPONSE, ABSTRACT, SOFTWARE, INSTINCT, CRACKPOT, FOOTBALL, REACTION, LOCATION
+[2025-05-17 11:17:36] [INFO] [GameController] New game requested
+[2025-05-17 11:17:36] [INFO] [GameService] New game started with target word: HOSPITALITY
+[2025-05-17 11:17:36] [INFO] [GameService] Word options: INSTITUTION, ENVIRONMENT, TRANSPARENT, IMPROVEMENT, PERSONALITY, LEGISLATION, PERFORMANCE, HOSPITALITY
+[2025-05-17 11:17:37] [INFO] [GameController] New game requested
+[2025-05-17 11:17:37] [INFO] [GameService] New game started with target word: QUALIFICATION
+[2025-05-17 11:17:37] [INFO] [GameService] Word options: ENTERTAINMENT, SUPPLEMENTARY, CONSTELLATION, COMPREHENSIVE, SHORT CIRCUIT, UNDERSTANDING, QUALIFICATION, DEMONSTRATION
+[2025-05-17 11:17:38] [INFO] [GameController] New game requested
+[2025-05-17 11:17:38] [INFO] [GameService] New game started with target word: LITERACY
+[2025-05-17 11:17:38] [INFO] [GameService] Word options: RESTLESS, ADVOCATE, LANGUAGE, DISCREET, VERTICAL, LITERACY, MOSQUITO, FORESTRY
+[2025-05-17 11:17:38] [INFO] [GameController] New game requested
+[2025-05-17 11:17:38] [INFO] [GameService] New game started with target word: ENVIRONMENTAL
+[2025-05-17 11:17:38] [INFO] [GameService] Word options: CONFRONTATION, STRIKEBREAKER, SHORT CIRCUIT, COMPREHENSIVE, ENVIRONMENTAL, CONSIDERATION, UNDERSTANDING, EMBARRASSMENT
+[2025-05-17 11:17:38] [INFO] [GameController] New game requested
+[2025-05-17 11:17:38] [INFO] [GameService] New game started with target word: CREDIT CARD
+[2025-05-17 11:17:38] [INFO] [GameService] Word options: CREDIT CARD, CONSOLIDATE, PREPARATION, INSPIRATION, COMPARTMENT, HOSPITALITY, OPERATIONAL, LEGISLATURE
+[2025-05-17 11:17:39] [INFO] [GameController] New game requested
+[2025-05-17 11:17:39] [INFO] [GameService] New game started with target word: HARDWARE
+[2025-05-17 11:17:39] [INFO] [GameService] Word options: DIALOGUE, FINISHED, SANDWICH, HARDWARE, ILLUSION, MISTREAT, BIRTHDAY, ACTIVITY
+[2025-05-17 11:17:39] [INFO] [GameController] New game requested
+[2025-05-17 11:17:39] [INFO] [GameService] New game started with target word: CONSTITUENCY
+[2025-05-17 11:17:39] [INFO] [GameService] Word options: CONSERVATIVE, CONSERVATION, SPOKESPERSON, CONSTITUENCY, CIVILIZATION, CONVERSATION, INTERMEDIATE, INTRODUCTION
+[2025-05-17 11:17:39] [INFO] [GameController] New game requested
+[2025-05-17 11:17:39] [INFO] [GameService] New game started with target word: DETECTIVE
+[2025-05-17 11:17:39] [INFO] [GameService] Word options: MODERNIZE, HIGHLIGHT, CULTIVATE, NOTORIOUS, COPYRIGHT, DETECTIVE, RECOGNIZE, ATTENTION
+[2025-05-17 11:17:39] [INFO] [GameController] New game requested
+[2025-05-17 11:17:39] [INFO] [GameService] New game started with target word: BOARD
+[2025-05-17 11:17:39] [INFO] [GameService] Word options: CHEST, BOARD, LEMON, REBEL, DEATH, LODGE, EAGLE, OBESE
+[2025-05-17 11:17:40] [INFO] [GameController] New game requested
+[2025-05-17 11:17:40] [INFO] [GameService] New game started with target word: DEFINE
+[2025-05-17 11:17:40] [INFO] [GameService] Word options: DEFINE, WEIGHT, SQUARE, BETRAY, ROTTEN, AGENDA, WORKER, BOUNCE
+[2025-05-17 11:17:40] [INFO] [GameController] New game requested
+[2025-05-17 11:17:40] [INFO] [GameService] New game started with target word: NATIONALISM
+[2025-05-17 11:17:40] [INFO] [GameService] Word options: PROSECUTION, UNCERTAINTY, TRANSACTION, OPERATIONAL, INFORMATION, APPOINTMENT, CONSUMPTION, NATIONALISM
+[2025-05-17 11:17:40] [INFO] [GameController] New game requested
+[2025-05-17 11:17:40] [INFO] [GameService] New game started with target word: ENTERTAINMENT
+[2025-05-17 11:17:40] [INFO] [GameService] Word options: CONSTELLATION, CONFRONTATION, QUALIFICATION, ENTERTAINMENT, INAPPROPRIATE, CONSCIOUSNESS, CONCENTRATION, SHORT CIRCUIT
+[2025-05-17 11:17:40] [INFO] [GameController] New game requested
+[2025-05-17 11:17:40] [INFO] [GameService] New game started with target word: CONCENTRATION
+[2025-05-17 11:17:40] [INFO] [GameService] Word options: INVESTIGATION, QUALIFICATION, CONSTELLATION, DEMONSTRATION, CONCENTRATION, ENVIRONMENTAL, REVOLUTIONARY, CONTRADICTION
+[2025-05-17 11:17:40] [INFO] [GameController] New game requested
+[2025-05-17 11:17:40] [INFO] [GameService] New game started with target word: WORDING
+[2025-05-17 11:17:40] [INFO] [GameService] Word options: IMPULSE, CLUSTER, GENERAL, REALISM, ABRIDGE, WORDING, BARGAIN, ELEMENT
+[2025-05-17 11:17:49] [INFO] [GameController] New game requested
+[2025-05-17 11:17:49] [INFO] [GameService] New game started with target word: SUITE
+[2025-05-17 11:17:49] [INFO] [GameService] Word options: MOUSE, PRIZE, BERRY, ROBOT, BACON, LUNCH, BRAVE, SUITE
+[2025-05-17 11:17:51] [INFO] [GameController] New game requested
+[2025-05-17 11:17:51] [INFO] [GameService] New game started with target word: RIDE
+[2025-05-17 11:17:51] [INFO] [GameService] Word options: STAB, WAVE, HOUR, HOLE, HAVE, NOTE, RIDE, CASH
+[2025-05-17 11:17:52] [INFO] [GameController] New game requested
+[2025-05-17 11:17:52] [INFO] [GameService] New game started with target word: CHIMPANZEE
+[2025-05-17 11:17:52] [INFO] [GameService] Word options: PLAGIARIZE, INTEGRATED, PROPORTION, CHIMPANZEE, REGULATION, ASSIGNMENT, BRILLIANCE, DISCIPLINE
+[2025-05-17 11:17:53] [INFO] [GameController] New game requested
+[2025-05-17 11:17:53] [INFO] [GameService] New game started with target word: PROMOTION
+[2025-05-17 11:17:53] [INFO] [GameService] Word options: AGREEMENT, PENETRATE, INTENSIFY, UNDERTAKE, DISCOVERY, PROMOTION, TRANSPORT, BIOGRAPHY
+[2025-05-17 11:17:53] [INFO] [GameController] New game requested
+[2025-05-17 11:17:53] [INFO] [GameService] New game started with target word: FLU
+[2025-05-17 11:17:53] [INFO] [GameService] Word options: SEA, ANT, DOG, EGO, MAP, FLU, BEG, DAY
+[2025-05-17 11:17:54] [INFO] [Main] Application shutting down
+[2025-05-17 11:20:00] [INFO] [Main] Starting Decryption application
+[2025-05-17 11:20:00] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-17 11:20:00] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-17 11:20:00] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-17 11:20:00] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-17 11:20:00] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-17 11:20:00] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-17 11:20:00] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-17 11:20:00] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-17 11:20:00] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-17 11:20:00] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-17 11:20:00] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-17 11:20:00] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-17 11:20:00] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-17 11:20:00] [INFO] [ScoreManager] No score file found. Starting with fresh scores.
+[2025-05-17 11:20:00] [INFO] [GameService] New game started with target word: TENT
+[2025-05-17 11:20:00] [INFO] [GameService] Word options: MINE, POEM, CURL, FADE, RICE, MASS, SNUB, TENT
+[2025-05-17 11:20:00] [INFO] [Main] Application started successfully
+[2025-05-17 11:20:04] [INFO] [GameController] New game requested
+[2025-05-17 11:20:04] [INFO] [GameService] New game started with target word: PEPPER
+[2025-05-17 11:20:04] [INFO] [GameService] Word options: GLOBAL, REGRET, JOCKEY, TYCOON, PREACH, PEPPER, FAVOUR, LABOUR
+[2025-05-17 11:20:05] [INFO] [GameController] New game requested
+[2025-05-17 11:20:05] [INFO] [GameService] New game started with target word: SLAP
+[2025-05-17 11:20:05] [INFO] [GameService] Word options: MASK, SLAM, HELL, WORK, WIND, SLAP, BLOW, FOOT
+[2025-05-17 11:20:06] [INFO] [GameController] New game requested
+[2025-05-17 11:20:06] [INFO] [GameService] New game started with target word: ADOPTION
+[2025-05-17 11:20:06] [INFO] [GameService] Word options: ADOPTION, COMPLAIN, RELIABLE, ELECTRON, RESPONSE, SEQUENCE, EQUATION, BUTTOCKS
+[2025-05-17 11:20:07] [INFO] [Main] Application shutting down
+[2025-05-17 11:22:57] [INFO] [Main] Starting Decryption application
+[2025-05-17 11:22:57] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-17 11:22:57] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-17 11:22:57] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-17 11:22:57] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-17 11:22:57] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-17 11:22:57] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-17 11:22:57] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-17 11:22:57] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-17 11:22:57] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-17 11:22:57] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-17 11:22:57] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-17 11:22:57] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-17 11:22:57] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-17 11:22:57] [INFO] [ScoreManager] No score file found. Starting with fresh scores.
+[2025-05-17 11:22:58] [INFO] [GameService] New game started with target word: POLLUTION
+[2025-05-17 11:22:58] [INFO] [GameService] Word options: AUTHORITY, CHEMISTRY, INTERFACE, POLLUTION, REPRESENT, NOTORIOUS, WISECRACK, EMERGENCY
+[2025-05-17 11:22:58] [INFO] [Main] Application started successfully
+[2025-05-17 11:23:03] [INFO] [Main] Application shutting down

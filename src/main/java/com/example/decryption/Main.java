@@ -8,7 +8,7 @@ import com.example.decryption.model.GameService;
 import com.example.decryption.model.ScoreManager;
 import com.example.decryption.model.WordListProvider;
 import com.example.decryption.util.Logger;
-import org.example.view.GameView;
+import com.example.decryption.view.GameView;
 
 /**
  * Main application class for the Decryption word game.

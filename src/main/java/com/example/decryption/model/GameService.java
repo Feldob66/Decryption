@@ -23,33 +23,21 @@ public class GameService {
         this.gameState = new GameState();
     }
 
-    /**
-     * Starts a new game
-     */
     public void startNewGame() {
-        // Create a new game state
         gameState = new GameState();
 
-        // Get word list for today
-        List<String> todaysWords = wordListProvider.getDailyWordList();
-        gameState.setWordOptions(todaysWords);
+        List<String> freshWords = wordListProvider.generateFreshWordList();
+        gameState.setWordOptions(freshWords);
 
-        // Select target word
-        String targetWord = wordListProvider.selectTargetWord(todaysWords);
+        String targetWord = wordListProvider.selectTargetWord(freshWords);
         gameState.setTargetWord(targetWord);
 
         logger.info("New game started with target word: " + targetWord);
-        logger.info("Word options: " + String.join(", ", todaysWords));
+        logger.info("Word options: " + String.join(", ", freshWords));
 
-        // Notify observers about the state change
         gameState.updateState();
     }
 
-    /**
-     * Process a player's word guess
-     * @param guessedWord The word guessed by the player
-     * @return Result object with feedback
-     */
     public GuessResult makeGuess(String guessedWord) {
         if (gameState.isGameOver()) {
             logger.info("Game is already over");
@@ -61,39 +49,29 @@ public class GameService {
             return new GuessResult(false, 0, "Word is not in the options list");
         }
 
-        // Record the attempt
         gameState.setCurrentAttempt(gameState.getCurrentAttempt() + 1);
         gameState.addAttemptedWord(guessedWord);
 
-        // Calculate characters in correct position
         int correctCharCount = calculateCorrectCharacters(guessedWord, gameState.getTargetWord());
         gameState.addFeedbackScore(correctCharCount);
 
-        // Check if the word is correct
         boolean isCorrect = guessedWord.equals(gameState.getTargetWord());
 
         if (isCorrect) {
-            // Player won
             gameState.setGameWon(true);
             gameState.setGameOver(true);
-
-            // Calculate score based on attempts
             int score = scoreManager.calculateScore(gameState.getCurrentAttempt());
             gameState.setCurrentScore(score);
-
-            // Record game result
             scoreManager.recordGameResult(true, gameState.getCurrentAttempt());
 
             logger.info("Player won on attempt " + gameState.getCurrentAttempt() + " with score " + score);
         } else if (gameState.getCurrentAttempt() >= gameState.getMaxAttempts()) {
-            // Player lost (ran out of attempts)
             gameState.setGameOver(true);
             scoreManager.recordGameResult(false, gameState.getCurrentAttempt());
 
             logger.info("Player lost after " + gameState.getCurrentAttempt() + " attempts");
         }
 
-        // Notify observers about the state change
         gameState.updateState();
 
         return new GuessResult(
@@ -103,12 +81,6 @@ public class GameService {
         );
     }
 
-    /**
-     * Calculate how many characters are in the correct position
-     * @param guessedWord The player's guess
-     * @param targetWord The actual target word
-     * @return Number of characters in correct position
-     */
     private int calculateCorrectCharacters(String guessedWord, String targetWord) {
         int correctCount = 0;
         int length = Math.min(guessedWord.length(), targetWord.length());
@@ -122,17 +94,10 @@ public class GameService {
         return correctCount;
     }
 
-    /**
-     * Get the current game state
-     * @return Current game state
-     */
     public GameState getGameState() {
         return gameState;
     }
 
-    /**
-     * Class representing the result of a guess
-     */
     public static class GuessResult {
         private final boolean correct;
         private final int correctCharCount;

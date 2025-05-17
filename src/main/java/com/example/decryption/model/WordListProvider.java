@@ -16,94 +16,84 @@ import java.util.*;
 public class WordListProvider {
 
     private static final Logger logger = new Logger("WordListProvider");
-    private static final String DEFAULT_WORDLIST_PATH = "/wordlists/default_words.txt";
-    private final Random random = new Random();
+    private static final String WORDLIST_FOLDER = "/wordlists/";
+    private static final int MIN_WORD_LENGTH = 3;
+    private static final int MAX_WORD_LENGTH = 14;
+    private static final int DAILY_WORD_COUNT = 8;
 
+    private final Random random = new Random();
     private List<String> allWords;
     private Map<LocalDate, List<String>> dailyWordLists;
+    private final Map<Integer, List<String>> wordsByLength = new HashMap<>();
 
     public WordListProvider() {
         this.allWords = new ArrayList<>();
         this.dailyWordLists = new HashMap<>();
-        loadDefaultWordList();
+        loadWordListsByLength();
     }
 
-    /**
-     * Loads the default wordlist from resources
-     */
-    private void loadDefaultWordList() {
-        try {
-            InputStream is = getClass().getResourceAsStream(DEFAULT_WORDLIST_PATH);
+    private void loadWordListsByLength() {
+        for (int length = MIN_WORD_LENGTH; length <= MAX_WORD_LENGTH; length++) {
+            String fileName = WORDLIST_FOLDER + "wordslength" + length + ".txt";
+            try (InputStream is = getClass().getResourceAsStream(fileName)) {
+                if (is == null) {
+                    logger.warn("Word list file not found: " + fileName);
+                    continue;
+                }
 
-            // If the default wordlist doesn't exist yet, create a sample one
-            if (is == null) {
-                logger.info("Default wordlist not found. Using built-in word list.");
-                // Some sample words for testing
-                allWords = Arrays.asList(
-                        "ALGORITHM", "BOOTSTRAP", "COMPILER", "DATABASE", "ENCRYPTION",
-                        "FUNCTION", "GRAPHICS", "HARDWARE", "INTERNET", "JAVASCRIPT",
-                        "KEYBOARD", "LANGUAGE", "MICROCHIP", "NETWORK", "OPERATING",
-                        "PROTOCOL", "QUANTUM", "RENDERING", "SOFTWARE", "TERMINAL",
-                        "UNIVERSAL", "VARIABLE", "WIRELESS", "XENON", "YOUTUBE", "ZIPPING"
-                );
-                return;
-            }
+                try (BufferedReader reader = new BufferedReader(new InputStreamReader(is))) {
+                    String line;
+                    while ((line = reader.readLine()) != null) {
+                        line = line.trim().toUpperCase();
+                        if (!line.isEmpty()) {
+                            allWords.add(line);
 
-            try (BufferedReader reader = new BufferedReader(new InputStreamReader(is))) {
-                String line;
-                while ((line = reader.readLine()) != null) {
-                    line = line.trim().toUpperCase();
-                    if (!line.isEmpty()) {
-                        allWords.add(line);
+                            wordsByLength.putIfAbsent(length, new ArrayList<>());
+                            wordsByLength.get(length).add(line);
+                        }
                     }
                 }
-            }
 
-            logger.info("Loaded " + allWords.size() + " words from default word list");
-        } catch (IOException e) {
-            logger.error("Error loading word list", e);
+                logger.info("Loaded words from " + fileName);
+            } catch (IOException e) {
+                logger.error("Error loading word list from " + fileName, e);
+            }
         }
+
+        logger.info("Total words loaded: " + allWords.size());
     }
 
-    /**
-     * Gets the daily word list for today
-     * @return List of words for today's challenge
-     */
     public List<String> getDailyWordList() {
         LocalDate today = LocalDate.now();
-
         if (!dailyWordLists.containsKey(today)) {
             generateDailyWordList(today);
         }
-
         return dailyWordLists.get(today);
     }
 
-    /**
-     * Generates a list of words for a specific date
-     * @param date The date to generate words for
-     */
     private void generateDailyWordList(LocalDate date) {
-        // Use the date as a seed to ensure the same words appear on the same day
         Random seededRandom = new Random(date.toEpochDay());
-
-        // Get all available words
         List<String> shuffledWords = new ArrayList<>(allWords);
         Collections.shuffle(shuffledWords, seededRandom);
 
-        // Select a subset of words (between 7-10 words)
-        int wordCount = 7 + seededRandom.nextInt(4); // 7 to 10 words
+        int wordCount = 7 + seededRandom.nextInt(4); // 7 to 10
         List<String> selectedWords = shuffledWords.subList(0, Math.min(wordCount, shuffledWords.size()));
 
         dailyWordLists.put(date, selectedWords);
         logger.info("Generated daily word list for " + date + " with " + selectedWords.size() + " words");
     }
 
-    /**
-     * Gets a random word from the list as the target word
-     * @param wordList The list to select from
-     * @return A randomly selected word
-     */
+    public List<String> generateFreshWordList() {
+        if (wordsByLength.isEmpty()) return Collections.emptyList();
+
+        List<Integer> lengths = new ArrayList<>(wordsByLength.keySet());
+        int chosenLength = lengths.get(random.nextInt(lengths.size()));
+        List<String> wordPool = new ArrayList<>(wordsByLength.getOrDefault(chosenLength, Collections.emptyList()));
+
+        Collections.shuffle(wordPool, random);
+        return wordPool.subList(0, Math.min(DAILY_WORD_COUNT, wordPool.size()));
+    }
+
     public String selectTargetWord(List<String> wordList) {
         if (wordList == null || wordList.isEmpty()) {
             return "";
@@ -111,18 +101,19 @@ public class WordListProvider {
         return wordList.get(random.nextInt(wordList.size()));
     }
 
-    /**
-     * Adds custom words to the word list
-     * @param words List of words to add
-     */
     public void addCustomWords(List<String> words) {
         if (words == null || words.isEmpty()) {
             return;
         }
 
         for (String word : words) {
-            if (!allWords.contains(word.toUpperCase())) {
-                allWords.add(word.toUpperCase());
+            String upper = word.toUpperCase();
+            if (!allWords.contains(upper)) {
+                allWords.add(upper);
+
+                int len = upper.length();
+                wordsByLength.putIfAbsent(len, new ArrayList<>());
+                wordsByLength.get(len).add(upper);
             }
         }
 
