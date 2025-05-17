@@ -1,21 +1,12 @@
-[2025-05-12 08:48:35] [INFO] [Main] Starting Decryption application
-[2025-05-12 08:48:35] [INFO] [WordListProvider] Loaded 48 words from default word list
-[2025-05-12 08:48:35] [INFO] [ScoreManager] No score file found. Starting with fresh scores.
-[2025-05-12 08:48:35] [INFO] [WordListProvider] Generated daily word list for 2025-05-12 with 8 words
-[2025-05-12 08:48:35] [INFO] [GameService] New game started with target word: ASSEMBLY
-[2025-05-12 08:48:35] [INFO] [GameService] Word options: ENCRYPTION, FUNCTION, NETWORK, GRAPHICS, FIREWALL, ASSEMBLY, MICROCHIP, ALGORITHM
-[2025-05-12 08:48:35] [INFO] [Main] Application started successfully
-[2025-05-12 08:48:44] [INFO] [GameController] Statistics requested
-[2025-05-12 08:48:46] [INFO] [GameController] New game requested
-[2025-05-12 08:48:46] [INFO] [GameService] New game started with target word: NETWORK
-[2025-05-12 08:48:46] [INFO] [GameService] Word options: ENCRYPTION, FUNCTION, NETWORK, GRAPHICS, FIREWALL, ASSEMBLY, MICROCHIP, ALGORITHM
-[2025-05-12 08:49:16] [INFO] [GameController] Statistics requested
-[2025-05-12 08:49:27] [INFO] [Main] Application shutting down
-[2025-05-12 08:59:52] [INFO] [Main] Starting Decryption application
-[2025-05-12 08:59:52] [INFO] [WordListProvider] Loaded 48 words from default word list
-[2025-05-12 08:59:52] [INFO] [ScoreManager] No score file found. Starting with fresh scores.
-[2025-05-12 08:59:52] [INFO] [WordListProvider] Generated daily word list for 2025-05-12 with 8 words
-[2025-05-12 08:59:52] [INFO] [GameService] New game started with target word: ALGORITHM
-[2025-05-12 08:59:52] [INFO] [GameService] Word options: ENCRYPTION, FUNCTION, NETWORK, GRAPHICS, FIREWALL, ASSEMBLY, MICROCHIP, ALGORITHM
-[2025-05-12 08:59:52] [INFO] [Main] Application started successfully
-[2025-05-12 08:59:59] [INFO] [Main] Application shutting down
+[2025-05-17 10:52:45] [INFO] [Main] Starting Decryption application
+[2025-05-17 10:52:45] [INFO] [WordListProvider] Default wordlist not found. Using built-in word list.
+[2025-05-17 10:52:45] [INFO] [ScoreManager] No score file found. Starting with fresh scores.
+[2025-05-17 10:52:45] [INFO] [WordListProvider] Generated daily word list for 2025-05-17 with 9 words
+[2025-05-17 10:52:45] [INFO] [GameService] New game started with target word: SOFTWARE
+[2025-05-17 10:52:45] [INFO] [GameService] Word options: LANGUAGE, VARIABLE, SOFTWARE, MICROCHIP, WIRELESS, DATABASE, ALGORITHM, QUANTUM, KEYBOARD
+[2025-05-17 10:52:45] [INFO] [Main] Application started successfully
+[2025-05-17 10:52:52] [INFO] [GameController] Statistics requested
+[2025-05-17 10:52:59] [INFO] [GameController] New game requested
+[2025-05-17 10:52:59] [INFO] [GameService] New game started with target word: MICROCHIP
+[2025-05-17 10:52:59] [INFO] [GameService] Word options: LANGUAGE, VARIABLE, SOFTWARE, MICROCHIP, WIRELESS, DATABASE, ALGORITHM, QUANTUM, KEYBOARD
+[2025-05-17 10:53:06] [INFO] [Main] Application shutting down
