@@ -76,7 +76,7 @@ public class WordListProvider {
         List<String> shuffledWords = new ArrayList<>(allWords);
         Collections.shuffle(shuffledWords, seededRandom);
 
-        int wordCount = 7 + seededRandom.nextInt(4); // 7 to 10
+        int wordCount = 8;
         List<String> selectedWords = shuffledWords.subList(0, Math.min(wordCount, shuffledWords.size()));
 
         dailyWordLists.put(date, selectedWords);

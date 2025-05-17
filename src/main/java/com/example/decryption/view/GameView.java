@@ -114,6 +114,12 @@ public class GameView {
 
         VBox infoBox = createInfoSection();
         rootPane.setRight(infoBox);
+
+        //Add Button to vbox
+        for (int i = 0; i < 8; i++)
+        {
+            wordListContainer.getChildren().add(new Button("Button " + (int)(i + 1)));
+        }
     }
 
     private VBox createInfoSection() {
