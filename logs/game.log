@@ -1037,3 +1037,1113 @@
 [2025-05-17 13:48:57] [INFO] [ScoreManager] Scores saved successfully
 [2025-05-17 13:48:57] [INFO] [GameService] Player won on attempt 5 with score 0
 [2025-05-17 13:49:03] [INFO] [Main] Application shutting down
+[2025-05-17 13:54:10] [INFO] [Main] Starting Decryption application
+[2025-05-17 13:54:10] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-17 13:54:10] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-17 13:54:10] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-17 13:54:10] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-17 13:54:10] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-17 13:54:10] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-17 13:54:10] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-17 13:54:10] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-17 13:54:10] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-17 13:54:10] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-17 13:54:10] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-17 13:54:10] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-17 13:54:10] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-17 13:54:10] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-17 13:54:10] [INFO] [GameService] New game started with target word: SATELLITE
+[2025-05-17 13:54:10] [INFO] [GameService] Word options: MECHANISM, SATISFIED, REINFORCE, CHOCOLATE, DEPARTURE, CULTIVATE, SATELLITE, IMPORTANT
+[2025-05-17 13:54:10] [INFO] [Main] Application started successfully
+[2025-05-17 13:54:27] [INFO] [GameController] Player selected word: MECHANISM
+[2025-05-17 13:54:28] [INFO] [GameController] Player selected word: SATISFIED
+[2025-05-17 13:54:29] [INFO] [GameController] Player selected word: REINFORCE
+[2025-05-17 13:54:29] [INFO] [GameController] Player selected word: CHOCOLATE
+[2025-05-17 13:54:30] [INFO] [GameController] Player selected word: IMPORTANT
+[2025-05-17 13:54:30] [INFO] [ScoreManager] Game lost after 5 attempts
+[2025-05-17 13:54:30] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-17 13:54:30] [INFO] [GameService] Player lost after 5 attempts
+[2025-05-17 13:54:33] [INFO] [Main] Application shutting down
+[2025-05-17 13:55:13] [INFO] [Main] Starting Decryption application
+[2025-05-17 13:55:13] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-17 13:55:13] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-17 13:55:13] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-17 13:55:13] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-17 13:55:13] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-17 13:55:13] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-17 13:55:13] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-17 13:55:13] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-17 13:55:13] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-17 13:55:13] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-17 13:55:13] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-17 13:55:13] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-17 13:55:13] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-17 13:55:13] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-17 13:55:14] [INFO] [GameService] New game started with target word: TALENTED
+[2025-05-17 13:55:14] [INFO] [GameService] Word options: TALENTED, DIRECTOR, UNLIKELY, MAGNETIC, MEDIEVAL, FUNCTION, QUANTITY, FRACTION
+[2025-05-17 13:55:14] [INFO] [Main] Application started successfully
+[2025-05-17 13:55:15] [INFO] [GameController] Player selected word: DIRECTOR
+[2025-05-17 13:55:16] [INFO] [GameController] Player selected word: FUNCTION
+[2025-05-17 13:55:16] [INFO] [GameController] Player selected word: MEDIEVAL
+[2025-05-17 13:55:17] [INFO] [GameController] Player selected word: TALENTED
+[2025-05-17 13:55:17] [INFO] [ScoreManager] Game won on attempt 4 with score 50
+[2025-05-17 13:55:17] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-17 13:55:17] [INFO] [GameService] Player won on attempt 4 with score 50
+[2025-05-17 13:55:18] [INFO] [Main] Application shutting down
+[2025-05-17 13:55:56] [INFO] [Main] Starting Decryption application
+[2025-05-17 13:55:56] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-17 13:55:56] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-17 13:55:56] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-17 13:55:56] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-17 13:55:56] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-17 13:55:56] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-17 13:55:56] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-17 13:55:56] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-17 13:55:56] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-17 13:55:56] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-17 13:55:56] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-17 13:55:56] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-17 13:55:56] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-17 13:55:56] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-17 13:55:57] [INFO] [GameService] New game started with target word: DASH
+[2025-05-17 13:55:57] [INFO] [GameService] Word options: FIRE, SLAM, WILD, SIGN, HATE, DASH, BAKE, PILL
+[2025-05-17 13:55:57] [INFO] [Main] Application started successfully
+[2025-05-17 13:55:58] [INFO] [GameController] Player selected word: SLAM
+[2025-05-17 13:55:59] [INFO] [GameController] Player selected word: DASH
+[2025-05-17 13:55:59] [INFO] [ScoreManager] Game won on attempt 2 with score 150
+[2025-05-17 13:55:59] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-17 13:55:59] [INFO] [GameService] Player won on attempt 2 with score 150
+[2025-05-17 13:56:00] [INFO] [Main] Application shutting down
+[2025-05-17 14:57:25] [INFO] [Main] Starting Decryption application
+[2025-05-17 14:57:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-17 14:57:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-17 14:57:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-17 14:57:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-17 14:57:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-17 14:57:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-17 14:57:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-17 14:57:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-17 14:57:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-17 14:57:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-17 14:57:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-17 14:57:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-17 14:57:25] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-17 14:57:25] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-17 14:57:26] [INFO] [GameService] New game started with target word: CENSORSHIP
+[2025-05-17 14:57:26] [INFO] [GameService] Word options: CENSORSHIP, CORRESPOND, RELAXATION, INNOVATION, CONVULSION, ACCESSIBLE, TECHNOLOGY, DEPENDENCE
+[2025-05-17 14:57:26] [INFO] [Main] Application started successfully
+[2025-05-17 14:57:54] [INFO] [GameController] Player selected word: INNOVATION
+[2025-05-17 15:00:34] [INFO] [GameController] Player selected word: CENSORSHIP
+[2025-05-17 15:00:34] [INFO] [ScoreManager] Game won on attempt 2 with score 150
+[2025-05-17 15:00:34] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-17 15:00:34] [INFO] [GameService] Player won on attempt 2 with score 150
+[2025-05-17 15:00:41] [INFO] [GameController] New game requested
+[2025-05-17 15:00:41] [INFO] [GameService] New game started with target word: VISUAL
+[2025-05-17 15:00:41] [INFO] [GameService] Word options: VALLEY, CEREAL, APPEAR, PACKET, RUNNER, VISUAL, IMPORT, PEPPER
+[2025-05-17 15:00:45] [INFO] [GameController] Player selected word: VALLEY
+[2025-05-17 15:01:01] [INFO] [GameController] Player selected word: VISUAL
+[2025-05-17 15:01:01] [INFO] [ScoreManager] Game won on attempt 2 with score 150
+[2025-05-17 15:01:01] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-17 15:01:01] [INFO] [GameService] Player won on attempt 2 with score 150
+[2025-05-17 15:01:04] [INFO] [GameController] New game requested
+[2025-05-17 15:01:04] [INFO] [GameService] New game started with target word: IDEOLOGY
+[2025-05-17 15:01:04] [INFO] [GameService] Word options: IDEOLOGY, FAMILIAR, PRESENCE, PRACTICE, THREATEN, APPENDIX, SEPARATE, SKELETON
+[2025-05-17 15:01:06] [INFO] [GameController] Player selected word: APPENDIX
+[2025-05-17 15:01:12] [INFO] [GameController] Player selected word: FAMILIAR
+[2025-05-17 15:01:30] [INFO] [GameController] Player selected word: IDEOLOGY
+[2025-05-17 15:01:30] [INFO] [ScoreManager] Game won on attempt 3 with score 100
+[2025-05-17 15:01:30] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-17 15:01:30] [INFO] [GameService] Player won on attempt 3 with score 100
+[2025-05-17 15:01:37] [INFO] [GameController] New game requested
+[2025-05-17 15:01:37] [INFO] [GameService] New game started with target word: CORD
+[2025-05-17 15:01:37] [INFO] [GameService] Word options: RENT, PAWN, CLAY, MEET, CORD, LEND, BITE, COAL
+[2025-05-17 15:01:40] [INFO] [GameController] Player selected word: COAL
+[2025-05-17 15:01:48] [INFO] [GameController] Player selected word: CLAY
+[2025-05-17 15:02:15] [INFO] [GameController] Player selected word: CORD
+[2025-05-17 15:02:15] [INFO] [ScoreManager] Game won on attempt 3 with score 100
+[2025-05-17 15:02:15] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-17 15:02:15] [INFO] [GameService] Player won on attempt 3 with score 100
+[2025-05-17 15:02:17] [INFO] [GameController] New game requested
+[2025-05-17 15:02:17] [INFO] [GameService] New game started with target word: RECOMMENDATION
+[2025-05-17 15:02:17] [INFO] [GameService] Word options: RECOMMENDATION, CORRESPONDENCE, DISAPPOINTMENT, CONSTITUTIONAL, SUPERINTENDENT, IDENTIFICATION, RESPONSIBILITY, ADMINISTRATION
+[2025-05-17 15:02:31] [INFO] [GameController] Player selected word: RECOMMENDATION
+[2025-05-17 15:02:31] [INFO] [ScoreManager] Game won on attempt 1 with score 200
+[2025-05-17 15:02:31] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-17 15:02:31] [INFO] [GameService] Player won on attempt 1 with score 200
+[2025-05-17 15:02:38] [INFO] [GameController] New game requested
+[2025-05-17 15:02:38] [INFO] [GameService] New game started with target word: EXCITEMENT
+[2025-05-17 15:02:38] [INFO] [GameService] Word options: REDUNDANCY, EXHIBITION, HUMAN BODY, GENERATION, EXCITEMENT, ENGAGEMENT, LITERATURE, FOUNDATION
+[2025-05-17 15:02:56] [INFO] [GameController] Player selected word: EXHIBITION
+[2025-05-17 15:03:06] [INFO] [GameController] Player selected word: EXCITEMENT
+[2025-05-17 15:03:06] [INFO] [ScoreManager] Game won on attempt 2 with score 150
+[2025-05-17 15:03:06] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-17 15:03:06] [INFO] [GameService] Player won on attempt 2 with score 150
+[2025-05-17 15:03:08] [INFO] [GameController] New game requested
+[2025-05-17 15:03:08] [INFO] [GameService] New game started with target word: PREACH
+[2025-05-17 15:03:08] [INFO] [GameService] Word options: DEGREE, DIRECT, EXCUSE, SUBURB, FACADE, MATTER, PREACH, WAITER
+[2025-05-19 12:38:26] [INFO] [Main] Starting Decryption application
+[2025-05-19 12:38:26] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 12:38:26] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 12:38:26] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 12:38:26] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 12:38:26] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 12:38:26] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 12:38:26] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 12:38:26] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 12:38:26] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 12:38:26] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 12:38:26] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 12:38:26] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 12:38:26] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 12:38:26] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 12:38:26] [INFO] [GameService] New game started with target word: PARTNERSHIP
+[2025-05-19 12:38:26] [INFO] [GameService] Word options: ASSOCIATION, UNCERTAINTY, HYPOTHESIZE, DISTURBANCE, PARTNERSHIP, INTEGRATION, ACQUISITION, CREDIT CARD
+[2025-05-19 12:38:26] [INFO] [Main] Application started successfully
+[2025-05-19 12:38:29] [INFO] [GameController] Player selected word: HYPOTHESIZE
+[2025-05-19 12:38:30] [INFO] [GameController] Player selected word: INTEGRATION
+[2025-05-19 12:38:33] [INFO] [GameController] Player selected word: UNCERTAINTY
+[2025-05-19 12:38:34] [INFO] [GameController] Player selected word: CREDIT CARD
+[2025-05-19 12:38:34] [INFO] [GameController] Player selected word: PARTNERSHIP
+[2025-05-19 12:38:34] [INFO] [ScoreManager] Game won on attempt 5 with score 0
+[2025-05-19 12:38:34] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 12:38:34] [INFO] [GameService] Player won on attempt 5 with score 0
+[2025-05-19 12:38:38] [INFO] [Main] Application shutting down
+[2025-05-19 13:30:34] [INFO] [Main] Starting Decryption application
+[2025-05-19 13:30:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:30:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:30:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:30:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:30:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:30:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:30:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:30:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:30:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:30:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:30:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:30:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:30:34] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:30:34] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:30:34] [INFO] [GameService] New game started with target word: HUSBAND
+[2025-05-19 13:30:34] [INFO] [GameService] Word options: POPULAR, HUSBAND, SURFACE, CHAPTER, QUARTER, HALLWAY, CONTENT, TRIBUTE
+[2025-05-19 13:30:34] [INFO] [Main] Application started successfully
+[2025-05-19 13:30:36] [INFO] [GameController] Player selected word: HUSBAND
+[2025-05-19 13:30:36] [INFO] [ScoreManager] Game won on attempt 1 with score 200
+[2025-05-19 13:30:36] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 13:30:36] [INFO] [GameService] Player won on attempt 1 with score 200
+[2025-05-19 13:30:38] [INFO] [Main] Application shutting down
+[2025-05-19 13:46:58] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:46:58] [INFO] [ScoreManager] Game won on attempt 3 with score 100
+[2025-05-19 13:46:58] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 13:46:58] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:46:58] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:46:58] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:46:58] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:46:58] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:46:58] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:46:58] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:46:58] [INFO] [GameService] New game started with target word: WANDER
+[2025-05-19 13:46:58] [INFO] [GameService] Word options: SQUASH, STICKY, THREAT, METHOD, RABBIT, MUSCLE, INJURY, WANDER
+[2025-05-19 13:49:25] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:49:25] [INFO] [ScoreManager] Game won on attempt 3 with score 100
+[2025-05-19 13:49:25] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 13:49:25] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:49:25] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:49:25] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:49:25] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:49:25] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:49:25] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:49:25] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:49:25] [INFO] [GameService] New game started with target word: FLOAT
+[2025-05-19 13:49:25] [INFO] [GameService] Word options: UNION, FIGHT, CREAM, COLOR, BASIS, GRAIN, FLOAT, WASTE
+[2025-05-19 13:58:46] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:58:46] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:58:46] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:58:46] [INFO] [ScoreManager] Game lost after 5 attempts
+[2025-05-19 13:58:46] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 13:58:46] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:58:46] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:58:46] [INFO] [ScoreManager] Game won on attempt 2 with score 150
+[2025-05-19 13:58:46] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 13:58:46] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 13:58:46] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 13:58:46] [INFO] [GameService] New game started with target word: HOROSCOPE
+[2025-05-19 13:58:46] [INFO] [GameService] Word options: FASCINATE, REINFORCE, TRANSPORT, ADVERTISE, HOROSCOPE, MODERNIZE, FIREPLACE, INFLATION
+[2025-05-19 14:03:29] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:03:29] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:03:29] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:03:29] [INFO] [ScoreManager] Game lost after 5 attempts
+[2025-05-19 14:03:29] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:03:29] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:03:29] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:03:29] [INFO] [ScoreManager] Game won on attempt 2 with score 150
+[2025-05-19 14:03:29] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:03:29] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:03:29] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:03:29] [INFO] [GameService] New game started with target word: INFRASTRUCTURE
+[2025-05-19 14:03:29] [INFO] [GameService] Word options: SUPERINTENDENT, REHABILITATION, RECOMMENDATION, CONSTITUTIONAL, DISCRIMINATION, CORRESPONDENCE, RESPONSIBILITY, INFRASTRUCTURE
+[2025-05-19 14:05:33] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:33] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:33] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:33] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:34] [INFO] [ScoreManager] Game lost after 5 attempts
+[2025-05-19 14:05:34] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:05:34] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:34] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:34] [INFO] [ScoreManager] Game won on attempt 2 with score 150
+[2025-05-19 14:05:34] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:05:34] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:34] [INFO] [GameService] New game started with target word: CONSTITUTIONAL
+[2025-05-19 14:05:34] [INFO] [GameService] Word options: CORRESPONDENCE, REPRESENTATIVE, SUPERINTENDENT, COMPUTER VIRUS, CONSTITUTIONAL, DISCRIMINATION, REHABILITATION, DISAPPOINTMENT
+[2025-05-19 14:05:34] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:34] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:41] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:41] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:41] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:41] [INFO] [ScoreManager] Game lost after 5 attempts
+[2025-05-19 14:05:41] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:05:41] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:41] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:41] [INFO] [ScoreManager] Game won on attempt 2 with score 150
+[2025-05-19 14:05:41] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:05:41] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:41] [INFO] [GameService] New game started with target word: CAN
+[2025-05-19 14:05:41] [INFO] [GameService] Word options: ASK, HAY, SPY, FLY, CAN, BOW, FAR, RUN
+[2025-05-19 14:05:41] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:41] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:45] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:45] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:45] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:45] [INFO] [ScoreManager] Game lost after 5 attempts
+[2025-05-19 14:05:45] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:05:45] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:45] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:45] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:45] [INFO] [ScoreManager] Game won on attempt 2 with score 150
+[2025-05-19 14:05:45] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:05:46] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:05:46] [INFO] [GameService] New game started with target word: BELLY
+[2025-05-19 14:05:46] [INFO] [GameService] Word options: HONOR, NOBLE, GRAVE, BRINK, ATTIC, BELLY, RIDER, EJECT
+[2025-05-19 14:05:46] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:05:46] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:06:12] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:06:12] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:06:12] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:06:12] [INFO] [ScoreManager] Game lost after 5 attempts
+[2025-05-19 14:06:12] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:06:12] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:06:12] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:06:12] [INFO] [ScoreManager] Game won on attempt 2 with score 150
+[2025-05-19 14:06:12] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:06:12] [INFO] [ScoreManager] Scores loaded successfully
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:06:12] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:06:12] [INFO] [GameService] New game started with target word: MONARCH
+[2025-05-19 14:06:12] [INFO] [GameService] Word options: NEUTRAL, MONARCH, LAUNDRY, MISLEAD, SCRATCH, MAXIMUM, GENETIC, MIXTURE
+[2025-05-19 14:11:19] [INFO] [ScoreManager] No score file found. Starting with fresh scores.
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:11:19] [INFO] [ScoreManager] No score file found. Starting with fresh scores.
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:11:19] [INFO] [ScoreManager] No score file found. Starting with fresh scores.
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:11:19] [INFO] [ScoreManager] Game lost after 5 attempts
+[2025-05-19 14:11:19] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:11:19] [INFO] [ScoreManager] No score file found. Starting with fresh scores.
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:11:19] [INFO] [ScoreManager] No score file found. Starting with fresh scores.
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:11:19] [INFO] [ScoreManager] Game won on attempt 2 with score 150
+[2025-05-19 14:11:19] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:11:19] [INFO] [ScoreManager] No score file found. Starting with fresh scores.
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:11:19] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:11:19] [INFO] [GameService] New game started with target word: TRIBUTE
+[2025-05-19 14:11:19] [INFO] [GameService] Word options: MEANING, GLACIER, POSTURE, TRIBUTE, WELCOME, VILLAGE, CONCEPT, REFLECT
+[2025-05-19 14:13:51] [INFO] [Main] Starting Decryption application
+[2025-05-19 14:13:51] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength3.txt
+[2025-05-19 14:13:51] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength4.txt
+[2025-05-19 14:13:51] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength5.txt
+[2025-05-19 14:13:51] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength6.txt
+[2025-05-19 14:13:51] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength7.txt
+[2025-05-19 14:13:51] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength8.txt
+[2025-05-19 14:13:51] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength9.txt
+[2025-05-19 14:13:51] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength10.txt
+[2025-05-19 14:13:51] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength11.txt
+[2025-05-19 14:13:51] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength12.txt
+[2025-05-19 14:13:51] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength13.txt
+[2025-05-19 14:13:51] [INFO] [WordListProvider] Loaded words from /wordlists/wordslength14.txt
+[2025-05-19 14:13:51] [INFO] [WordListProvider] Total words loaded: 3236
+[2025-05-19 14:13:51] [INFO] [ScoreManager] No score file found. Starting with fresh scores.
+[2025-05-19 14:13:51] [INFO] [GameService] New game started with target word: JEWEL
+[2025-05-19 14:13:51] [INFO] [GameService] Word options: BRIDE, PRIDE, LEARN, CAUSE, BLANK, TASTE, BUILD, JEWEL
+[2025-05-19 14:13:51] [INFO] [Main] Application started successfully
+[2025-05-19 14:13:53] [INFO] [GameController] Player selected word: PRIDE
+[2025-05-19 14:13:53] [INFO] [GameController] Player selected word: TASTE
+[2025-05-19 14:13:54] [INFO] [GameController] Player selected word: BLANK
+[2025-05-19 14:13:54] [INFO] [GameController] Player selected word: BRIDE
+[2025-05-19 14:13:55] [INFO] [GameController] Player selected word: CAUSE
+[2025-05-19 14:13:55] [INFO] [ScoreManager] Game lost after 5 attempts
+[2025-05-19 14:13:55] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:13:55] [INFO] [GameService] Player lost after 5 attempts
+[2025-05-19 14:13:57] [INFO] [GameController] New game requested
+[2025-05-19 14:13:57] [INFO] [GameService] New game started with target word: REMUNERATE
+[2025-05-19 14:13:57] [INFO] [GameService] Word options: WITHDRAWAL, CONFESSION, PHILOSOPHY, NOMINATION, FOLK MUSIC, EARTHQUAKE, REMUNERATE, MOTIVATION
+[2025-05-19 14:13:58] [INFO] [GameController] Player selected word: EARTHQUAKE
+[2025-05-19 14:13:59] [INFO] [GameController] Player selected word: CONFESSION
+[2025-05-19 14:14:00] [INFO] [GameController] Player selected word: WITHDRAWAL
+[2025-05-19 14:14:00] [INFO] [GameController] Player selected word: FOLK MUSIC
+[2025-05-19 14:14:01] [INFO] [GameController] Player selected word: NOMINATION
+[2025-05-19 14:14:01] [INFO] [ScoreManager] Game lost after 5 attempts
+[2025-05-19 14:14:01] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:14:01] [INFO] [GameService] Player lost after 5 attempts
+[2025-05-19 14:14:02] [INFO] [GameController] New game requested
+[2025-05-19 14:14:02] [INFO] [GameService] New game started with target word: REGULAR
+[2025-05-19 14:14:02] [INFO] [GameService] Word options: CRYSTAL, LABORER, FORTUNE, SPEAKER, BARRIER, REGULAR, OLD AGE, SWALLOW
+[2025-05-19 14:14:04] [INFO] [GameController] Player selected word: REGULAR
+[2025-05-19 14:14:04] [INFO] [ScoreManager] Game won on attempt 1 with score 200
+[2025-05-19 14:14:04] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:14:04] [INFO] [GameService] Player won on attempt 1 with score 200
+[2025-05-19 14:14:05] [INFO] [GameController] New game requested
+[2025-05-19 14:14:05] [INFO] [GameService] New game started with target word: ZONE
+[2025-05-19 14:14:05] [INFO] [GameService] Word options: SCAN, PEEL, LOAN, CART, CAGE, PEST, ZONE, CITY
+[2025-05-19 14:14:07] [INFO] [GameController] Player selected word: LOAN
+[2025-05-19 14:14:08] [INFO] [GameController] Player selected word: CART
+[2025-05-19 14:14:08] [INFO] [GameController] Player selected word: CITY
+[2025-05-19 14:14:09] [INFO] [GameController] Player selected word: PEEL
+[2025-05-19 14:14:10] [INFO] [GameController] Player selected word: ZONE
+[2025-05-19 14:14:10] [INFO] [ScoreManager] Game won on attempt 5 with score 0
+[2025-05-19 14:14:10] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:14:10] [INFO] [GameService] Player won on attempt 5 with score 0
+[2025-05-19 14:14:13] [INFO] [GameController] New game requested
+[2025-05-19 14:14:13] [INFO] [GameService] New game started with target word: UNDERSTAND
+[2025-05-19 14:14:13] [INFO] [GameService] Word options: CONFERENCE, RELINQUISH, INSTRUMENT, RELUCTANCE, PRESIDENCY, TRANSITION, UNDERSTAND, WITHDRAWAL
+[2025-05-19 14:14:15] [INFO] [GameController] Player selected word: INSTRUMENT
+[2025-05-19 14:14:16] [INFO] [GameController] Player selected word: RELUCTANCE
+[2025-05-19 14:14:16] [INFO] [GameController] Player selected word: WITHDRAWAL
+[2025-05-19 14:14:16] [INFO] [GameController] Player selected word: UNDERSTAND
+[2025-05-19 14:14:16] [INFO] [ScoreManager] Game won on attempt 4 with score 50
+[2025-05-19 14:14:16] [INFO] [ScoreManager] Scores saved successfully
+[2025-05-19 14:14:16] [INFO] [GameService] Player won on attempt 4 with score 50
+[2025-05-19 14:14:28] [INFO] [Main] Application shutting down

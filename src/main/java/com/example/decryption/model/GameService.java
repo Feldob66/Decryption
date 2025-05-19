@@ -55,12 +55,12 @@ public class GameService {
     public GuessResult makeGuess(String guessedWord) {
         if (gameState.isGameOver()) {
             logger.info("Game is already over");
-            return new GuessResult(false, 0, "Game is already over");
+            return new GuessResult(false, "Game is already over");
         }
 
         if (!gameState.getWordOptions().contains(guessedWord)) {
             logger.info("Invalid guess: " + guessedWord);
-            return new GuessResult(false, 0, "Word is not in the options list");
+            return new GuessResult(false, "Word is not in the options list");
         }
 
         gameState.setCurrentAttempt(gameState.getCurrentAttempt() + 1);
@@ -90,7 +90,6 @@ public class GameService {
 
         return new GuessResult(
                 isCorrect,
-                correctCharCount,
                 isCorrect
                         ? "Correct! You've decrypted the word!"
                         : correctCharCount + "/" + gameState.getTargetWord().length() + " correct characters"
@@ -116,21 +115,15 @@ public class GameService {
 
     public static class GuessResult {
         private final boolean correct;
-        private final int correctCharCount;
         private final String message;
 
-        public GuessResult(boolean correct, int correctCharCount, String message) {
+        public GuessResult(boolean correct, String message) {
             this.correct = correct;
-            this.correctCharCount = correctCharCount;
             this.message = message;
         }
 
         public boolean isCorrect() {
             return correct;
-        }
-
-        public int getCorrectCharCount() {
-            return correctCharCount;
         }
 
         public String getMessage() {

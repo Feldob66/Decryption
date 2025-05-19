@@ -94,13 +94,13 @@ A **Decryption** egy Wordle-szerű, intellektuális, logikai alapú szókereső 
 
 ### Fázis 3 – UI fejlesztés és logolás
 
-* [ ] UI styling (JavaFX CSS)
-* [ ] Logolás fejlesztése
+* [x] UI styling (JavaFX CSS)
+* [x] Logolás fejlesztése
 
 ### Fázis 4 – Tesztelés és dokumentáció
 
-* [ ] JUnit tesztek írása
-* [ ] README és rendszerterv véglegesítése
+* [x] JUnit tesztek írása
+* [x] README és rendszerterv véglegesítése
 
 ## 🧪 Bővítési lehetőségek
 
