@@ -1,0 +1,91 @@
+/* Main application styling */
+.root {
+    -fx-background-color: #f0f3f6;
+    -fx-font-family: 'Arial', sans-serif;
+}
+
+.root-pane {
+    -fx-background-color: white;
+    -fx-background-radius: 8px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.2), 10, 0, 0, 2);
+}
+
+/* Game buttons */
+.game-button {
+    -fx-background-color: #3498db;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 20px;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+}
+
+.game-button:hover {
+    -fx-background-color: #2980b9;
+}
+
+.game-button:pressed {
+    -fx-background-color: #1c6ea4;
+}
+
+/* Status label */
+.status-label {
+    -fx-padding: 5px;
+    -fx-border-color: #e0e0e0;
+    -fx-border-width: 0 0 1 0;
+    -fx-background-color: #f8f9fa;
+}
+
+/* Word list container */
+.word-list-container {
+    -fx-background-color: white;
+    -fx-border-color: #e0e0e0;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.1), 5, 0, 0, 1);
+    -fx-min-width: 200px;
+}
+
+/* Word buttons */
+.word-button {
+    -fx-background-color: #f4f4f4;
+    -fx-border-color: #e0e0e0;
+    -fx-border-radius: 3px;
+    -fx-background-radius: 3px;
+    -fx-padding: 10px;
+    -fx-font-family: 'Monospace';
+    -fx-font-size: 14px;
+    -fx-cursor: hand;
+    -fx-min-width: 180px;
+}
+
+.word-button:hover {
+    -fx-background-color: #e0e0e0;
+}
+
+.word-button:pressed {
+    -fx-background-color: #d0d0d0;
+}
+
+.word-button:disabled {
+    -fx-opacity: 0.7;
+}
+
+/* Attempts container */
+.attempts-container {
+    -fx-background-color: white;
+    -fx-border-color: #e0e0e0;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.1), 5, 0, 0, 1);
+    -fx-min-width: 300px;
+}
+
+/* Info section */
+.info-section {
+    -fx-background-color: #f8f9fa;
+    -fx-border-color: #e0e0e0;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.1), 5, 0, 0, 1);
+}
